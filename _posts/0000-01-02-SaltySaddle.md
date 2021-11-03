@@ -1,6 +1,6 @@
 ---
-layout: slile
-title: "Welcome to our second slide!"
+layout: slile 2
+title: "Welcome to our second slide! This is slide 2 style"
 ---
-Your text
-Use the left arror to go back!
+Changed text
+Slide 2 changed text
